@@ -9,7 +9,8 @@ a cyber security enthusiast and likes learning anything around that as well as t
 ### Other stuff that I do 
 
 [<img align="center" alt="HackLabs" width="100px" src="images/hacklabs.jpg">][HackLabs]
-Me and the guys trying to pull some new guys to the cyber world with a fun miniCTF challenges
+Me and the boys trying to pull some new guys to the cyber world with a fun miniCTF challenges
+[Github][HackLabsGit]
 
 [<img align="center" alt="Cyber Security Community" width="100px" src="images/csc.png">][CSC]
 As one of the active members and one of the mentor there
@@ -21,5 +22,6 @@ A Capture The Flag team that learn intensively and competitively
 [HTB]: https://www.hackthebox.eu/
 [THM]: https://tryhackme.com/
 [HackLabs]: https://www.instagram.com/hacklabs.id/
-[Petir]: https://petircysec.com/
+[HackLabsGit]: https://github.com/HackLabsId/HackLabsChall/
 [CSC]: https://student-activity.binus.ac.id/csc/
+[Petir]: https://petircysec.com/
